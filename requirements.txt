@@ -1,0 +1,5 @@
+jupyter==1.0.0
+transformers==4.40.0
+datasets==2.19.0
+evaluate==0.4.1
+accelerate==0.29.3
