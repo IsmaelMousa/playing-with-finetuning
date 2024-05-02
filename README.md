@@ -5,8 +5,10 @@ This repository serves as a practice on how to fine-tune a pre-trained transform
 
 ## Points
 - Practice on how to prepare the foundations of the training environment, such as the **tokenizer**, **model**, **dataset**, and **hyperparameters**.
-- Practice on how to fine-tune a model by using the `Trainer` API.
+- Practice on how to fine-tune a model by using the `Trainer` high-level API.
 - Practice on how to evaluate the performance of the model after finishing the training process, by using the **evaluate** library.
+- Practice on how to fine-tune a model from the low level training & evaluation loop.
+- Practice on how to fine-tune a model & using the `Accelerator` to enable distributed training on multiple GPUs or TPUs.
 
 ## Usage
 1. Clone this repository to your local machine:
