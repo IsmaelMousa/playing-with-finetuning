@@ -1,7 +1,7 @@
 # Fine-Tuning a Pre-trained Model
 
 ## Overview
-This repository serves as a practice on how to fine-tune a pre-trained transformers model from the Hugging Face.
+This repository serves as a practice on how to fine-tune a pre-trained transformers model from the Hugging Face, in various techniques.
 
 ## Points
 - Practice on how to prepare the foundations of the training environment, such as the **tokenizer**, **model**, **dataset**, and **hyperparameters**.
