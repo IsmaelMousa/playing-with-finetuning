@@ -33,3 +33,17 @@ source .venv/bin/activate
 ```zsh
 pip install -r requirements.txt
 ```
+
+<br/>
+
+>[!IMPORTANT]
+>
+> To start training form `train.py` file directly:
+> 1. This command will prompt you to answer a few questions and dump your answers in the configuration file
+> ```zsh 
+> accelerate config
+> ```
+> 2. Launch the training
+> ```zsh 
+> accelerate launch train.py
+> ```
